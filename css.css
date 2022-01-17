@@ -1,0 +1,74 @@
+#contacto {
+
+    border: 0px solid black;
+    width: 80%;
+    margin: auto;
+    border-radius: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+
+}
+
+#contacto input{
+
+    display: inline-block;
+    margin-bottom: 25px;
+    margin-top: 6px;
+    font-size: 23px;
+
+}
+
+#contacto .user_info {
+
+    margin: 30px;
+    margin-left: 30px;
+
+}
+
+#contacto #textcom {
+
+    float: right;
+    color: white;
+    margin: 50px;
+    font-size: 25px;
+    border: 0px solid black;
+    border-radius: 4px;
+    text-align: center;
+
+}
+
+.radio{
+    font-size: 24pz;
+    font-weight: 500;
+    text-transform: capitalize;
+    display: inline-block;
+    vertical-align: middle;
+    color: #fff;
+}
+.radio + .radio{
+    margin-left: 20px;
+}
+.radio input[type="radio"]{
+    display: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(90deg, #000, #323232);
+}
+
+duda{
+    background: url(https://topemojis.com/images/android-11/strange-face-with-raised-eyebrow.png);
+    background-size: 20px;
+    padding: 2px 10px;
+    margin-right: 5px;
+}
+botris{
+    background: url(https://o.remove.bg/downloads/5242703c-be3a-4ba1-b265-27aa8e7cd590/7123577179a56c27cd1449387b0e7089-removebg-preview.png);
+    background-size: 25px;
+    padding: 2px 10px;
+    margin-right: 5px;
+}
