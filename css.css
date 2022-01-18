@@ -1,3 +1,15 @@
+.home{
+    flex-wrap: wrap;   
+}
+
+.in-flex{
+    min-width: 250px;
+}
+
+.in-flex:first-child {
+    margin-bottom: 0px   
+}
+    
 #contacto {
 
     border: 0px solid black;
